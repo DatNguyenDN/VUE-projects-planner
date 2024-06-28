@@ -1,0 +1,47 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "details": "Create a prototype of the mobile application with basic functionalities for user testing.",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "title": "Redesign website footer",
+      "details": "Update the footer design to include new social media links and improved layout.",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Implement user login system",
+      "details": "Develop and integrate a secure user authentication system with email and password login.",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "Optimize site for SEO",
+      "details": "Perform SEO audit and implement on-page SEO improvements to increase search engine ranking.",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "title": "Develop mobile app prototype",
+      "details": "Create a prototype of the mobile application with basic functionalities for user testing.",
+      "completed": false
+    },
+    {
+      "id": 6,
+      "title": "Set up CI/CD pipeline",
+      "details": "Configure continuous integration and continuous deployment pipeline for automated testing and deployment.",
+      "completed": false
+    },
+    {
+      "title": "GO SHOPPING",
+      "details": "lorem",
+      "complete": false,
+      "id": 7,
+      "detaisl": "lorem"
+    }
+  ]
+}
